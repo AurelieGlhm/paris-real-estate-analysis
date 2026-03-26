@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 2. Lancer les scripts Python dans l’ordre souhaité pour générer les fichiers CSV
 3. Créer la base de données avec init_db.sql
-3. Ouvrir le fichier Power BI pour visualiser le tableau de bord
+3. Ouvrir le fichier Power BI (sous dashboard/projet_immobilier_paris.pbix) pour visualiser le tableau de bord
 
 ---
 
@@ -93,6 +93,5 @@ Ce projet met l’accent sur la reproductibilité, la structuration du code et l
 
 ## Accès rapide
 - [Rapport PDF](reports/rapport_immobilier_paris.pdf)
-- [Tableau de bord Power BI](dashboard/projet_immobilier_paris.pbix)
 - [Scripts Python](src/)
 - [Script SQL](sql/init_db.sql)
