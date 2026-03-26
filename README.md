@@ -88,3 +88,11 @@ pip install -r requirements.txt
 ## Remarques
 Les CSV intermédiaires et volumineux ne sont pas versionnés pour conserver un repo léger.  
 Ce projet met l’accent sur la reproductibilité, la structuration du code et la documentation claire pour un usage professionnel.
+
+---
+
+## Accès rapide
+- [Rapport PDF](reports/rapport_immobilier_paris.pdf)
+- [Tableau de bord Power BI](dashboard/projet_immobilier_paris.pbix)
+- [Scripts Python](src/)
+- [Script SQL](sql/init_db.sql)
